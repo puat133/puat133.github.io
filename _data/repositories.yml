@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - puat133
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - puat133/Sparse-Grid-Autodiff-Projection-Filters
+  - puat133/DeepGalerkinSPDE
