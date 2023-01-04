@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KFUPM-CIE</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'> </a>
 
 profile:
   align: right
   image: mfe.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 Building 22-226</p>
-    <p>KFUPM</p>
-    <p>Dhahran, Eastern Province</p>
+    <p> Building 22-226 </p>
+    <p> KFUPM </p>
+    <p> Dhahran, Eastern Province </p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
