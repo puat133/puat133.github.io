@@ -21,8 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I am presently an assistant professor at King Fahd University of Petroleum and Minerals' Control and Instrumentation Engineering Department. In 2018, I obtained my Ph.D. in Electrical Engineering from the University of New South Wales. Following the completion of my PhD, I worked as a postdoctoral fellow at ANU College of Engineering and Computer Science (2018) and Aalto University (2018–2021). My areas of research include quantum control, nonlinear control, and stochastic filtering.
 
 I am always interested in collaborating on research projects, particularly those involving quantum filtering and control or generic stochastic filtering.
-I am now searching for a PhD student to collaborate with me on a project involving the numerical implementation of a projection filter.
-If you're interested, you can read the work here: [Signal Processing](https://www.sciencedirect.com/science/article/abs/pii/S0165168422003711) or here: [ArXiv](https://arxiv.org/pdf/2112.10594.pdf).
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
