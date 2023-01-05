@@ -6,7 +6,7 @@ subtitle: <a href='#'> </a>
 
 profile:
   align: right
-  image: mfe.jpg
+  image: IMG_20200516_185907.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Building 22-226 </p>
