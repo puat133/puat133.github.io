@@ -251,7 +251,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Emzir]
-  first_name: [Muhammad F., MF, Muhammad, Muhammad Fuady]
+  first_name: [Muhammad F., MF, Muhammad, Muhammad Fuady, Muhammad F]
 
   style: apa
   locale: en
