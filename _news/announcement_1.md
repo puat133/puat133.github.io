@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-11-18 15:59:00-0400
+title: Continuous Projection Filters talk at Uppsala University
 inline: false
 ---
 
