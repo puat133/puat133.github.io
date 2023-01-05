@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-11-18 15:59:00-0400
+inline: false
 ---
 
-A simple inline announcement.
+Zheng Zhao invited me to give a brief presentation on Continuous Projection Filters for his graduate course at Uppsala University yesterday. Here is the [slide](https://github.com/.../sem.../emzir_continuous_filtering.pdf).
