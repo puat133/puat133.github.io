@@ -17,7 +17,7 @@ nav_order: 5
 ## 213 (Summer 2021-2022)
 * CIE 301 Numerical Methods
 
-## 212 (Autumn 2021-2022)
+## 212 (Spring 2021-2022)
 * CIE 482 Path Planning and Navigation for Mobile Robots
 * SCE 565 Soft Computing for Identification
 
