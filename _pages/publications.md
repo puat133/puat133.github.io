@@ -14,7 +14,7 @@ An up-to-date list is available on my Google Scholar.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f papers -q @article[year={{y}}] || @inproceedings[year={{y}}] || @phdthesis[year={{y}}] || @thesis[year={{y}}] || @book[year={{y}}]* %}
 {% endfor %}
 
 <h2 class="year">Preprints</h2>
