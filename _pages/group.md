@@ -42,10 +42,10 @@ Dr. Emzir leads a research group focused on stochastic filtering, quantum contro
 ### Collaboration Opportunities
 
 We are always interested in collaborating on research projects, particularly those involving:
+- Nonlinear control systems via Koopman operator theory and differential geometry
+- Bayesian inference and Gaussian processes
 - Quantum filtering and control
 - Stochastic filtering and estimation
-- Nonlinear control systems
-- Bayesian inference and Gaussian processes
 - Sensor fusion and SLAM
 
 If you are interested in joining the group or collaborating, please contact Dr. Emzir at [muhammad.emzir@gmail.com](mailto:muhammad.emzir@gmail.com).
