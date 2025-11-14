@@ -17,4 +17,7 @@ An up-to-date list is available on my Google Scholar.
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+<h2 class="year">Preprints</h2>
+{% bibliography -f papers -q @misc[note=Preprint]* %}
+
 </div>
