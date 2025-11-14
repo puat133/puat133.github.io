@@ -1,10 +1,10 @@
 ---
 layout: post
+title: Postdoctoral Positions Available
 date: 2025-11-14 19:00:00-0400
-title: Exciting Opportunity: PhD/Postdoctoral Positions Available
 inline: false
 ---
-I am pleased to announce that PhD and Postdoctoral positions are open under my supervision in the following areas:
+I am pleased to announce that Postdoctoral positions are open under my supervision in the following areas:
 
  1. Information-Geometry Based Filtering and Parameter Estimation
  2. Data-Driven Nonlinear Control Design and Analysis
@@ -22,8 +22,6 @@ Application Requirements:
  * References
  * Copies of diplomas and university transcripts
 
-Interested applicants are kindly requested to complete this form: https://lnkd.in/d7TFtd4u
+Interested applicants are kindly requested to complete [this form](https://lnkd.in/d4vGSRwr) to apply.
 
 The positions will remain open until filled with the right candidates. We appreciate all applications; however, only shortlisted candidates will be contacted.
-
-[IRCSmartMobilityAndLogistics](https://lnkd.in/d4vGSRwr)
