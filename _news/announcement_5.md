@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-11-14 19:00:00-0400
-inline: true
+inline: false
 ---
 
 Exciting Opportunity: PhD/Postdoctoral Positions Available (Updated!)
