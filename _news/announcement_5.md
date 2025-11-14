@@ -1,10 +1,11 @@
 ---
 layout: post
+title: Exciting Opportunity: PhD/Postdoctoral Positions Available (Updated!)
 date: 2025-11-14 19:00:00-0400
 inline: false
 ---
 
-Exciting Opportunity: PhD/Postdoctoral Positions Available (Updated!)
+
 
 I am pleased to announce that PhD and Postdoctoral positions are open under my supervision in the following areas:
 
