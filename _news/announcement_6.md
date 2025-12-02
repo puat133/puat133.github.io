@@ -5,7 +5,7 @@ date: 2025-12-02 00:00:00-0400
 inline: false
 ---
 
-PhD Opportunities in Control Theory, Robotics, and Applied Mathematics
+**PhD Opportunities in Control Theory, Robotics, and Applied Mathematics**
 
 Dr. Emzir's research group at KFUPM is inviting applications for highly qualified PhD students to participate in advanced research at the intersection of control theory, differential geometry, robotics, and computational methods. Candidates with strong backgrounds in control systems, computer science, physics, mathematics, or closely related fields are encouraged to apply.
 
