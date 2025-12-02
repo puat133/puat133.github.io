@@ -22,6 +22,6 @@ Application Requirements:
  * References
  * Copies of diplomas and university transcripts
 
-Interested applicants are kindly requested to complete [this form](https://lnkd.in/d4vGSRwr) to apply.
+Interested applicants are kindly requested to complete [this form](https://docs.google.com/forms/d/1HEhv1VENUxZZ8wrgBUbNoHPUQqMbE-k5tEweq2b9B08) to apply.
 
 The positions will remain open until filled with the right candidates. We appreciate all applications; however, only shortlisted candidates will be contacted.
