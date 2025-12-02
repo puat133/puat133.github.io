@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open PhD position
-date: 2025-12-02 16:11:00-0400
+date: 2025-12-02 00:00:00-0400
 inline: false
 ---
 
